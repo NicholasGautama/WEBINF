@@ -6,6 +6,10 @@
 /vendor
 *.zip
 *.tar.gz
+<<<<<<< HEAD
+=======
+*.pdf
+>>>>>>> 1369be281bb5985e1f2a6597925e47bac89ab7e3
 .env
 .env.backup
 .env.production
